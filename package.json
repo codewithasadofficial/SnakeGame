@@ -1,7 +1,7 @@
 {
-  "name": "snakegame",
+  "name": "Snake Game by CODEWITHASAD",
   "version": "1.0.0",
-  "description": "",
+  "description": "i am contributer who is changing in this project for participating in hacktoberfest",
   "main": "src/index.js",
   "scripts": {
     "start": "vite src/",
